@@ -3,6 +3,8 @@
 ## Overview
 This project uses data analytics to explore the origins, evolution, and global impact of microplastic pollution, focusing on plastic production and waste management practices across countries and continents. Python was used for exploratory data analysis (EDA), and Tableau was utilized to create visualizations aimed at communicating the findings to a non-technical audience.
 
+**Note:** The project is presented as a PowerPoint to showcase key data visualizations effectively to non-technical audiences. The visual approach allows complex data and trends to be more accessible and comprehensible, especially for stakeholders unfamiliar with technical data analysis.
+
 ## Team Members:
 - **Suhaee Abro**: Investigated the origins, evolution of plastic production and global waste management practices and how long will plastics linger in surface oceans?
 - **Sarah Watson**: Analyzed the global impact of microplastics, particularly on human health and ecosystems.
