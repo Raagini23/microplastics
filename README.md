@@ -1,7 +1,6 @@
 # Microplastics: Origins, Global Impact, and Key Contributors
 
-![Microplastic Visualization](images/MICROPLASTICS.png)
-
+<img src="images/MICROPLASTICS.png" alt="Microplastic Visualization" width="400">
 
 ## Overview
 This project uses data analytics to explore the origins, evolution, and global impact of microplastic pollution, focusing on plastic production and waste management practices across countries and continents. Python was used for exploratory data analysis (EDA), and Tableau was utilized to create visualizations aimed at communicating the findings to a non-technical audience.
